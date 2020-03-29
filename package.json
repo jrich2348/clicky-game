@@ -1,0 +1,19 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrich2348/clicky-game.git"
+  },
+  "author": "jrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrich2348/clicky-game/issues"
+  },
+  "homepage": "https://github.com/jrich2348/clicky-game#readme"
+}
